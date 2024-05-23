@@ -1,0 +1,4 @@
+// function test(){
+ console.log("我测你们码");
+}
+test();
